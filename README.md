@@ -19,4 +19,4 @@ npm install
 npm run dev
 
 ## Live Demo
-[your-vercel-link-here]
+https://calendar-app-one-murex.vercel.app/
