@@ -1,0 +1,21 @@
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Georgia', serif;
+  background-color: #f0ebe3;
+  color: #2c2c2c;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  padding: 30px 16px;
+}
+
+#root {
+  width: 100%;
+  max-width: 1000px;
+}
