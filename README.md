@@ -1,20 +1,22 @@
-<<<<<<< HEAD
-# React + Vite
+# Interactive Wall Calendar
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A polished, interactive React calendar component built as a frontend engineering challenge.
 
-Currently, two official plugins are available:
+## Features
+- Wall calendar aesthetic with monthly hero images
+- Date range selection with visual start/end/in-between states
+- Notes tied to specific date ranges, filtered by month
+- Edit and delete notes
+- localStorage persistence across page refreshes
+- Fully responsive (desktop side-by-side, mobile stacked)
+- Today's date highlighted
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Tech Stack
+React, Vite, CSS
 
-## React Compiler
+## Run Locally
+npm install
+npm run dev
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# calendar-app
->>>>>>> a9be18020fe0dc09d0b1836fcd465fc3aee470d0
+## Live Demo
+[your-vercel-link-here]
